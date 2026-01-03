@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "902461621914",
+    "project_id": "tunakan-backend",
+    "storage_bucket": "tunakan-backend.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902461621914:android:72eafd85c5a4c738b50123",
+        "android_client_info": {
+          "package_name": "com.example.tunakan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjKHo1xQ9krFQ3ZVcMLx-AJxOIDYMy93k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
