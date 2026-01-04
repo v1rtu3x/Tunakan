@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "902461621914",
-    "project_id": "tunakan-backend",
-    "storage_bucket": "tunakan-backend.firebasestorage.app"
+    "project_number": "884120643348",
+    "project_id": "chatapp-33ded",
+    "storage_bucket": "chatapp-33ded.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:902461621914:android:72eafd85c5a4c738b50123",
+        "mobilesdk_app_id": "1:884120643348:android:7659ccfec61d8e34624401",
         "android_client_info": {
           "package_name": "com.example.tunakan"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDjKHo1xQ9krFQ3ZVcMLx-AJxOIDYMy93k"
+          "current_key": "AIzaSyAQ6K2OJPjugpXPtofPHKXs7DDW_K36kcs"
         }
       ],
       "services": {
