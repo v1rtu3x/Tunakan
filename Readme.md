@@ -1,6 +1,5 @@
 # Tunakan 
-![chat_icon.png](Assets/chat_icon.png)
-
+![logo.png](Assets/logo.png)
 Tunakan is an Android chat application developed in Java using Android Studio. The project demonstrates a real-time messaging system backed by Firebase services, including authentication and database synchronization.
 
 ## Overview 
